@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=P_GND Pin=L3-3
+Removed Pin From Net: NetName=V_Out Pin=R42-2
+Added Pin To Net: NetName=NetC35_1 Pin=R42-2
+Change Net Name : Old Net Name=NetC35_1 New Net Name=V_Out_Cap

@@ -1,0 +1,12 @@
+Change component parameters: Designator = "D20" ("D20"); Footprint = "DIODE_Schottky_DO214"; UniqueID = "\KEHKGKXB" ("\KEHKGKXB")
+Change component parameters (AddParameter): Name = "Description SEL"; Value = "DIODE SCHOTTKY 100V 3A SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SMC Diode Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "DIODE_Schottky_DO214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Code"; Value = "S1500-000030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SS310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3A 100V"; VariantName = "[No Variations]"

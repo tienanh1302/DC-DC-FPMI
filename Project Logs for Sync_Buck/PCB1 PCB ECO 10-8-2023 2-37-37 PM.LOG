@@ -1,0 +1,13 @@
+Added Component: Designator=J1(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Added Member To Class: ClassName=Power Converter Member=Component J1 Vin+
+Added Member To Class: ClassName=Power Converter Member=Component TP17 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP18 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP20 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP22 Test Point

@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=FW_Reset Pin=D15-2
+Removed Pin From Net: NetName=FW_Reset Pin=Q8-3
+Removed Pin From Net: NetName=NetQ5_1 Pin=R49-1
+Removed Member From Class: ClassName=Power Converter Member=D22
+Removed Member From Class: ClassName=Power Converter Member=R70
+Removed Member From Class: ClassName=Power Converter Member=R71
+Change Component Designator: OldDesignator=D16 NewDesignator=D15
+Change Component Designator: OldDesignator=D17 NewDesignator=D16
+Change Component Designator: OldDesignator=D18 NewDesignator=D17
+Change Component Designator: OldDesignator=D19 NewDesignator=D18
+Change Component Designator: OldDesignator=D20 NewDesignator=D19
+Change Component Designator: OldDesignator=D21 NewDesignator=D20
+Change Component Designator: OldDesignator=D22 NewDesignator=D21
+Change Component Designator: OldDesignator=D23 NewDesignator=D22
+Change Component Designator: OldDesignator=D24 NewDesignator=D23
+Change Component Designator: OldDesignator=R50 NewDesignator=R49
+Change Component Designator: OldDesignator=R51 NewDesignator=R50
+Change Component Designator: OldDesignator=R52 NewDesignator=R51
+Change Component Designator: OldDesignator=R53 NewDesignator=R52
+Change Component Designator: OldDesignator=R54 NewDesignator=R53
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=R58 NewDesignator=R57
+Change Component Designator: OldDesignator=R59 NewDesignator=R58
+Change Component Designator: OldDesignator=R60 NewDesignator=R59
+Change Component Designator: OldDesignator=R61 NewDesignator=R60
+Change Component Designator: OldDesignator=R62 NewDesignator=R61
+Change Component Designator: OldDesignator=R63 NewDesignator=R62
+Change Component Designator: OldDesignator=R64 NewDesignator=R63
+Change Component Designator: OldDesignator=R65 NewDesignator=R64
+Change Component Designator: OldDesignator=R66 NewDesignator=R65
+Change Component Designator: OldDesignator=R67 NewDesignator=R66
+Change Component Designator: OldDesignator=R68 NewDesignator=R67
+Change Component Designator: OldDesignator=R69 NewDesignator=R68
+Change Component Designator: OldDesignator=R70 NewDesignator=R69
+Change Component Designator: OldDesignator=R71 NewDesignator=R70
+Change Component Designator: OldDesignator=R72 NewDesignator=R71
+Change Component Designator: OldDesignator=R73 NewDesignator=R72
+Change Component Designator: OldDesignator=R74 NewDesignator=R73
+Change Component Designator: OldDesignator=R75 NewDesignator=R74
+Change Component Designator: OldDesignator=R76 NewDesignator=R75
+Change Component Designator: OldDesignator=R77 NewDesignator=R76
+Added Pin To Net: NetName=NetQ5_1 Pin=Q8-3
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetD15_2
+Change Net Name : Old Net Name=NetD17_2 New Net Name=NetD16_2
+Change Net Name : Old Net Name=NetD22_2 New Net Name=NetD21_2
+Change Net Name : Old Net Name=NetD24_2 New Net Name=NetD23_2
+Change Net Name : Old Net Name=NetR59_1 New Net Name=NetR58_1
+Change Net Name : Old Net Name=NetR60_1 New Net Name=NetR59_1
+Added Member To Class: ClassName=Power Converter Member=Component D16 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D17 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D19 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D20 PMEG2010AEJ,115
+Added Member To Class: ClassName=Supply Member=Component D22 V8P12-M3/86A
+Added Member To Class: ClassName=Power Converter Member=Component Q7 SS8050-G
+Added Member To Class: ClassName=Power Converter Member=Component R45 10k
+Added Member To Class: ClassName=Power Converter Member=Component R46 10k
+Added Member To Class: ClassName=Power Converter Member=Component R48 1k
+Added Member To Class: ClassName=Power Converter Member=Component R49 0603
+Added Member To Class: ClassName=Power Converter Member=Component R52 10k
+Added Member To Class: ClassName=Power Converter Member=Component R53 47k
+Added Member To Class: ClassName=Power Converter Member=Component R54 47k
+Added Member To Class: ClassName=Power Converter Member=Component R55 0603
+Added Member To Class: ClassName=Power Converter Member=Component R56 0603
+Added Member To Class: ClassName=Power Converter Member=Component R58 0603
+Added Member To Class: ClassName=Power Converter Member=Component R59 0603
+Added Member To Class: ClassName=Power Converter Member=Component R60 0603
+Added Member To Class: ClassName=Power Converter Member=Component R61 0603
+Added Member To Class: ClassName=Power Converter Member=Component R62 0603
+Added Member To Class: ClassName=Power Converter Member=Component R63 0603
+Added Member To Class: ClassName=Power Converter Member=Component R65 0603
+Added Member To Class: ClassName=Power Converter Member=Component R66 0603
+Added Member To Class: ClassName=Supply Member=Component R68 200k
+Added Member To Class: ClassName=Supply Member=Component R69 24k
+Added Member To Class: ClassName=Supply Member=Component R71 0603
+Added Member To Class: ClassName=Supply Member=Component R72 0603
+Added Member To Class: ClassName=Supply Member=Component R73 0603
+Added Member To Class: ClassName=Supply Member=Component R74 0603

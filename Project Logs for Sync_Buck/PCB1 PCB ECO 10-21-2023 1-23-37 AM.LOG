@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=Supply Member=D19
+Removed Member From Class: ClassName=Supply Member=R59
+Removed Member From Class: ClassName=Supply Member=R60
+Removed Member From Class: ClassName=Supply Member=R61
+Added Member To Class: ClassName=Power Converter Member=Component D18 PMEG2010AEJ,115
+Added Member To Class: ClassName=Supply Member=Component D21 V8P12-M3/86A
+Added Member To Class: ClassName=Supply Member=Component D22 LED-SMD
+Added Member To Class: ClassName=Power Converter Member=Component R11 47k
+Added Member To Class: ClassName=Power Converter Member=Component R12 47k
+Added Member To Class: ClassName=Power Converter Member=Component R14 47k
+Added Member To Class: ClassName=Power Converter Member=Component R16 47k
+Added Member To Class: ClassName=Power Converter Member=Component R17 10
+Added Member To Class: ClassName=Power Converter Member=Component R18 0603
+Added Member To Class: ClassName=Power Converter Member=Component R24 0603
+Added Member To Class: ClassName=Power Converter Member=Component R25 250k
+Added Member To Class: ClassName=Power Converter Member=Component R26 0603
+Added Member To Class: ClassName=Power Converter Member=Component R29 0603
+Added Member To Class: ClassName=Power Converter Member=Component R30 0603
+Added Member To Class: ClassName=Power Converter Member=Component R31 1k
+Added Member To Class: ClassName=Power Converter Member=Component R35 0603
+Added Member To Class: ClassName=Power Converter Member=Component R36 10k
+Added Member To Class: ClassName=Power Converter Member=Component R37 10k
+Added Member To Class: ClassName=Power Converter Member=Component R41 0603
+Added Member To Class: ClassName=Power Converter Member=Component R42 10k
+Added Member To Class: ClassName=Power Converter Member=Component R43 10k
+Added Member To Class: ClassName=Power Converter Member=Component R45 1k
+Added Member To Class: ClassName=Power Converter Member=Component R47 10k
+Added Member To Class: ClassName=Power Converter Member=Component R49 10k
+Added Member To Class: ClassName=Power Converter Member=Component R50 47k
+Added Member To Class: ClassName=Power Converter Member=Component R51 47k
+Added Member To Class: ClassName=Power Converter Member=Component R52 0603
+Added Member To Class: ClassName=Power Converter Member=Component R56 0603
+Added Member To Class: ClassName=Power Converter Member=Component R57 0603
+Added Member To Class: ClassName=Power Converter Member=Component R58 0603
+Added Member To Class: ClassName=Supply Member=Component R63 24k
+Added Member To Class: ClassName=Supply Member=Component R64 390k
+Added Member To Class: ClassName=Supply Member=Component R65 0603
+Added Member To Class: ClassName=Supply Member=Component R68 0603
+Added Member To Class: ClassName=Supply Member=Component R69 CRCW251215R0JNEG
+Added Member To Class: ClassName=Supply Member=Component R70 0603

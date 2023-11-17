@@ -1,0 +1,47 @@
+Added Component: Designator=Q7(sot23-3)
+Add component (AddParameter): Name = "Description SEL"; Value = "P-Channel 20 V 3.7A (Ta) 1.3W (Ta) Surface Mount Micro3™/SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INFINEON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1555-000011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DMP2160U-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20V 3.7A"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 200K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-13200KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R52(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 200K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-13200KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=VDD_5P0 Pin=Q7-2
+Added Pin To Net: NetName=HW_Reset Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_1 Pin=R51-1
+Added Pin To Net: NetName=VDD_5P0 Pin=R51-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R52-1
+Added Pin To Net: NetName=NetD18_1 Pin=R52-2
+Added Member To Class: ClassName=Power Converter Member=Component Q7 IRLML6402TRPBF
+Added Member To Class: ClassName=Power Converter Member=Component R51 10k
+Added Member To Class: ClassName=Power Converter Member=Component R52 1k

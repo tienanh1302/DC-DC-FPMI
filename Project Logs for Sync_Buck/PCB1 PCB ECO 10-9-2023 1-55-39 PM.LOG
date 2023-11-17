@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB3
+Change Net Name : Old Net Name=NetFB2_2 New Net Name=NetFB3_2
+Added Member To Class: ClassName=Power Converter Member=Component C24 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C26 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C28 0.1uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C30 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C32 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C35 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C38 0.1uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C40 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C42 1uF 25V
+Added Member To Class: ClassName=Power Converter Member=Component C44 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C46 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C48 47pF
+Added Member To Class: ClassName=Power Converter Member=Component C50 1uF 25V
+Added Member To Class: ClassName=Power Converter Member=Component C52 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C54 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C56 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C58 1nF
+Added Member To Class: ClassName=Power Converter Member=Component D11 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D12 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D13 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D14 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D15 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D16 PMEG2010AEJ,115

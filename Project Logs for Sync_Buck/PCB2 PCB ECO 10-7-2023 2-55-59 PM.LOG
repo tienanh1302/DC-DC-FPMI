@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=P_GND Pin=L3-3
+Added Component: Designator=C28(C_1210)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description std"; Value = "CAP CER 4.7UF 100V X7S 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1KU"; Value = "0.56250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1unit"; Value = "1.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/C3225X7S2A475M200AB/445-6043-2-ND/2443521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32ER71K475KE14L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UF-80V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C_1210)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description std"; Value = "CAP CER 4.7UF 100V X7S 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1KU"; Value = "0.56250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1unit"; Value = "1.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/C3225X7S2A475M200AB/445-6043-2-ND/2443521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32ER71K475KE14L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UF-80V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P_GND Pin=C28-1
+Added Pin To Net: NetName=NetC26_2 Pin=C28-2
+Added Pin To Net: NetName=P_GND Pin=C29-1
+Added Pin To Net: NetName=NetC26_2 Pin=C29-2
+Added Pin To Net: NetName=NetC26_2 Pin=C33-1
+Added Pin To Net: NetName=P_GND Pin=C33-2
+Added Pin To Net: NetName=NetC26_2 Pin=C34-1
+Added Pin To Net: NetName=P_GND Pin=C34-2
+Added Pin To Net: NetName=NetC26_2 Pin=C35-1
+Added Pin To Net: NetName=P_GND Pin=C35-2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=P_GND Pin=C37-2
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=P_GND Pin=C38-2
+Added Pin To Net: NetName=NetC37_1 Pin=C39-1
+Added Pin To Net: NetName=P_GND Pin=C39-2
+Added Member To Class: ClassName=Power Converter Member=Component C28 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C29 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C33 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C34 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C35 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C37 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C38 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C39 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component J6 CONN HEADER VERT 2POS 2.5MM
+Added Room: Name=Power Converter
+Added Room: Name=Power Supply

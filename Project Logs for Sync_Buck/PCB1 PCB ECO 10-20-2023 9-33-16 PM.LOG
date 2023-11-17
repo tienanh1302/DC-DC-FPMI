@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V_Out Pin=D21-1
+Removed Pin From Net: NetName=VDD_12P0 Pin=D21-2
+Removed Member From Class: ClassName=Supply Member=D21

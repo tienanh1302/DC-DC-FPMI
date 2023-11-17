@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=P_GND Pin=R27-1
+Removed Pin From Net: NetName=P_GND Pin=R27-2
+Removed Pin From Net: NetName=P_GND Pin=R33-1
+Removed Pin From Net: NetName=P_GND Pin=R33-2
+Removed Pin From Net: NetName=P_GND Pin=R46-1
+Removed Pin From Net: NetName=P_GND Pin=R46-2
+Removed Member From Class: ClassName=Power Converter Member=R27
+Removed Member From Class: ClassName=Power Converter Member=R33
+Removed Member From Class: ClassName=Power Converter Member=R46
+Added Member To Class: ClassName=Power Converter Member=Component TP6 TP
+Added Member To Class: ClassName=Power Converter Member=Component TP8 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP10 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP12 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP14 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP16 Test Point

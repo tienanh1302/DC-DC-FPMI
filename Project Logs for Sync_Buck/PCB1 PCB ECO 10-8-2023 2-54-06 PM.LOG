@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=P_GND Pin=L3-3
+Added Component: Designator=J1(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_in Pin=J1-1
+Added Pin To Net: NetName=V_Out Pin=J3-1
+Added Member To Class: ClassName=Power Converter Member=Component J1 Vin+
+Added Member To Class: ClassName=Power Converter Member=Component J3 Vout+

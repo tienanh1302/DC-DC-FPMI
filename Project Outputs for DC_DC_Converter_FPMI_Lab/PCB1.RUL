@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: G:\My Drive\FPMI\DC_DC_FPMI_Lab\PCB1.PcbDoc
+RuleKind=Clearance|RuleName=Stitching P_GND|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Stitching V_in_1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Stitching V_in|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance1|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

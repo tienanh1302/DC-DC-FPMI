@@ -1,0 +1,14 @@
+Added Component: Designator=J?(Electric Pole 1)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J?-1
+Added Pin To Net: NetName=V_Out Pin=J?-1
+Added Member To Class: ClassName=Power Converter Member=Component J? Vout+
+Added Member To Class: ClassName=Power Converter Member=Component J? Vin+
+Added Room: Name=Power Converter
+Added Room: Name=Power Supply

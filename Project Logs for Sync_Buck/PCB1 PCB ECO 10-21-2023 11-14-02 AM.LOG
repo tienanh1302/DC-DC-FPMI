@@ -1,0 +1,59 @@
+Change Component Footprint: Designator=TP2 Old Footprint=TP_1mm_through_hole New Footprint=TP_1mm
+Change Component Footprint: Designator=TP3 Old Footprint=TP_1mm_through_hole New Footprint=TP_1mm
+Change Component Footprint: Designator=TP5 Old Footprint=TP_1mm_through_hole New Footprint=TP_1mm
+Change Component Comment : Designator=TP2 Old Comment=Test Point New Comment=TP
+Change Component Comment : Designator=TP3 Old Comment=Test Point New Comment=TP
+Change Component Comment : Designator=TP5 Old Comment=Test Point New Comment=TP
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP18
+Change Component Kind : Designator=TP5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP2 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "TP2" ("TP2"); Footprint = "TP_1mm_through_hole"; UniqueID = "\QSKRBVGV" ("\QSKRBVGV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Creator"; Value = "SELEX MOTORS JSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Selex_Library"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3" ("TP3"); Footprint = "TP_1mm_through_hole"; UniqueID = "\WHIZZUOF" ("\WHIZZUOF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Creator"; Value = "SELEX MOTORS JSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Selex_Library"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5" ("TP5"); Footprint = "TP_1mm_through_hole"; UniqueID = "\DFWTYBED" ("\DFWTYBED")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Creator"; Value = "SELEX MOTORS JSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Selex_Library"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_1mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "SELEX MOTORS JSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Selex_Library"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P_GND Pin=TP6-1
+Added Member To Class: ClassName=Power Converter Member=Component TP2 TP
+Added Member To Class: ClassName=Power Converter Member=Component TP3 TP
+Added Member To Class: ClassName=Power Converter Member=Component TP4 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP5 TP
+Added Member To Class: ClassName=Power Converter Member=Component TP7 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP9 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP11 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP13 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP18 Test Point

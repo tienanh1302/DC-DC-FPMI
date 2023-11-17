@@ -1,0 +1,50 @@
+Removed Member From Class: ClassName=Power Converter Member=C62
+Removed Member From Class: ClassName=Power Converter Member=C63
+Removed Member From Class: ClassName=Power Converter Member=C64
+Removed Member From Class: ClassName=Power Converter Member=C65
+Removed Member From Class: ClassName=Power Converter Member=C66
+Removed Member From Class: ClassName=Power Converter Member=C67
+Added Pin To Net: NetName=FW_Reset Pin=J5-22
+Added Member To Class: ClassName=Power Converter Member=Component C15 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C16 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C17 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C18 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C19 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C20 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C21 0.1uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C23 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C24 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C25 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C26 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C27 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C28 4.7nF
+Added Member To Class: ClassName=Power Converter Member=Component C29 1uF 25V
+Added Member To Class: ClassName=Power Converter Member=Component C30 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C31 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C33 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C35 47pF
+Added Member To Class: ClassName=Power Converter Member=Component C37 1uF 25V
+Added Member To Class: ClassName=Power Converter Member=Component C38 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C39 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C40 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C42 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C44 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C46 1nF
+Added Member To Class: ClassName=Supply Member=Component C47 2.2nF
+Added Member To Class: ClassName=Supply Member=Component C48 Cap_Alu_TH_8P0D3P5_22uF
+Added Member To Class: ClassName=Supply Member=Component C49 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Supply Member=Component C50 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Supply Member=Component C51 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C52 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Supply Member=Component C53 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C54 10uF
+Added Member To Class: ClassName=Supply Member=Component C55 10uF
+Added Member To Class: ClassName=Supply Member=Component C56 0603
+Added Member To Class: ClassName=Supply Member=Component C57 0603
+Added Member To Class: ClassName=Supply Member=Component C58 3.3nF
+Added Member To Class: ClassName=Supply Member=Component C59 68pF
+Added Member To Class: ClassName=Supply Member=Component C60 N/A
+Added Member To Class: ClassName=Supply Member=Component C61 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component TP11 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP13 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP15 Test Point

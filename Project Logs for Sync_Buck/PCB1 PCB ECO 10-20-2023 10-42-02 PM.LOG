@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=FW_Reset Pin=D16-1
+Removed Member From Class: ClassName=Power Converter Member=D16
+Removed Member From Class: ClassName=Supply Member=R67
+Added Pin To Net: NetName=FW_Reset Pin=R52-1
+Added Member To Class: ClassName=Power Converter Member=Component D15 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D17 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D19 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D20 PMEG2010AEJ,115
+Added Member To Class: ClassName=Supply Member=Component D22 V8P12-M3/86A
+Added Member To Class: ClassName=Power Converter Member=Component R49 0603
+Added Member To Class: ClassName=Power Converter Member=Component R50 10k
+Added Member To Class: ClassName=Power Converter Member=Component R52 10k
+Added Member To Class: ClassName=Power Converter Member=Component R53 47k
+Added Member To Class: ClassName=Power Converter Member=Component R55 0603
+Added Member To Class: ClassName=Power Converter Member=Component R56 0603
+Added Member To Class: ClassName=Power Converter Member=Component R58 0603
+Added Member To Class: ClassName=Power Converter Member=Component R62 0603
+Added Member To Class: ClassName=Power Converter Member=Component R63 0603
+Added Member To Class: ClassName=Power Converter Member=Component R66 0603
+Added Member To Class: ClassName=Supply Member=Component R68 200k
+Added Member To Class: ClassName=Supply Member=Component R69 24k
+Added Member To Class: ClassName=Supply Member=Component R71 0603
+Added Member To Class: ClassName=Supply Member=Component R74 0603
+Added Member To Class: ClassName=Supply Member=Component R76 0603

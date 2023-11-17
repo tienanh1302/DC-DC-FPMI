@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P_GND Pin=R19-1
+Removed Pin From Net: NetName=P_GND Pin=R19-2
+Removed Pin From Net: NetName=P_GND Pin=R20-1
+Removed Pin From Net: NetName=P_GND Pin=R20-2
+Removed Member From Class: ClassName=Power Converter Member=R19
+Removed Member From Class: ClassName=Power Converter Member=R20

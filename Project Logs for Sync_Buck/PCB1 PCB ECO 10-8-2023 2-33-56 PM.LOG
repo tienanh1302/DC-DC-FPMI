@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=P_GND Pin=C46-1
+Removed Pin From Net: NetName=P_GND Pin=C47-1
+Removed Pin From Net: NetName=P_GND Pin=C48-1
+Removed Pin From Net: NetName=P_GND Pin=C50-2
+Removed Pin From Net: NetName=P_GND Pin=C55-2
+Removed Pin From Net: NetName=P_GND Pin=C57-1
+Removed Pin From Net: NetName=P_GND Pin=C58-1
+Removed Pin From Net: NetName=P_GND Pin=C59-1
+Removed Pin From Net: NetName=P_GND Pin=C60-1
+Removed Pin From Net: NetName=P_GND Pin=C61-1
+Removed Pin From Net: NetName=P_GND Pin=C62-1
+Removed Pin From Net: NetName=P_GND Pin=IC6-4
+Removed Pin From Net: NetName=P_GND Pin=J5-2
+Removed Pin From Net: NetName=P_GND Pin=J5-4
+Removed Pin From Net: NetName=P_GND Pin=J5-7
+Removed Pin From Net: NetName=P_GND Pin=J5-10
+Removed Pin From Net: NetName=P_GND Pin=J5-12
+Removed Pin From Net: NetName=P_GND Pin=J5-15
+Removed Pin From Net: NetName=P_GND Pin=J5-16
+Removed Pin From Net: NetName=P_GND Pin=J5-20
+Removed Pin From Net: NetName=P_GND Pin=J5-25
+Removed Pin From Net: NetName=P_GND Pin=L3-3
+Removed Pin From Net: NetName=P_GND Pin=Q3-2
+Removed Pin From Net: NetName=P_GND Pin=R11-1
+Removed Pin From Net: NetName=P_GND Pin=R16-1
+Removed Pin From Net: NetName=P_GND Pin=R17-1
+Removed Pin From Net: NetName=P_GND Pin=R20-2
+Removed Pin From Net: NetName=P_GND Pin=R22-2
+Removed Pin From Net: NetName=P_GND Pin=R26-2
+Removed Pin From Net: NetName=P_GND Pin=R31-2
+Removed Pin From Net: NetName=P_GND Pin=R37-1
+Removed Pin From Net: NetName=P_GND Pin=R38-2
+Removed Pin From Net: NetName=P_GND Pin=R46-1
+Removed Pin From Net: NetName=P_GND Pin=R50-1
+Removed Pin From Net: NetName=P_GND Pin=R51-1
+Removed Pin From Net: NetName=P_GND Pin=TP19-1
+Removed Pin From Net: NetName=P_GND Pin=TP20-1
+Removed Pin From Net: NetName=P_GND Pin=TP22-1
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP23
+Added Component: Designator=C33(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP-ALU-13MM*30MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/100zlh470mefc16x31.5/rubycon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "33.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1K471L/9597020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEU-FS1K471L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF 80V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(HOLE_5mm_BLACK)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(HOLE_5mm_BLACK)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC26_2 Pin=C33-1
+Added Pin To Net: NetName=P_GND Pin=C33-2
+Added Pin To Net: NetName=NetC26_2 Pin=C34-1
+Added Pin To Net: NetName=P_GND Pin=C34-2
+Added Pin To Net: NetName=NetC26_2 Pin=C35-1
+Added Pin To Net: NetName=P_GND Pin=C35-2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=P_GND Pin=C37-2
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=P_GND Pin=C38-2
+Added Pin To Net: NetName=NetC37_1 Pin=C39-1
+Added Pin To Net: NetName=P_GND Pin=C39-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Added Pin To Net: NetName=NetC50_1 Pin=TP17-1
+Added Pin To Net: NetName=S_GND Pin=C46-1
+Added Pin To Net: NetName=S_GND Pin=C47-1
+Added Pin To Net: NetName=S_GND Pin=C48-1
+Added Pin To Net: NetName=S_GND Pin=C50-2
+Added Pin To Net: NetName=S_GND Pin=C55-2
+Added Pin To Net: NetName=S_GND Pin=C57-1
+Added Pin To Net: NetName=S_GND Pin=C58-1
+Added Pin To Net: NetName=S_GND Pin=C59-1
+Added Pin To Net: NetName=S_GND Pin=C60-1
+Added Pin To Net: NetName=S_GND Pin=C61-1
+Added Pin To Net: NetName=S_GND Pin=C62-1
+Added Pin To Net: NetName=S_GND Pin=IC6-4
+Added Pin To Net: NetName=S_GND Pin=J5-2
+Added Pin To Net: NetName=S_GND Pin=J5-4
+Added Pin To Net: NetName=S_GND Pin=J5-7
+Added Pin To Net: NetName=S_GND Pin=J5-10
+Added Pin To Net: NetName=S_GND Pin=J5-12
+Added Pin To Net: NetName=S_GND Pin=J5-15
+Added Pin To Net: NetName=S_GND Pin=J5-16
+Added Pin To Net: NetName=S_GND Pin=J5-20
+Added Pin To Net: NetName=S_GND Pin=J5-25
+Added Pin To Net: NetName=S_GND Pin=Q3-2
+Added Pin To Net: NetName=S_GND Pin=R11-1
+Added Pin To Net: NetName=S_GND Pin=R16-1
+Added Pin To Net: NetName=S_GND Pin=R17-1
+Added Pin To Net: NetName=S_GND Pin=R20-2
+Added Pin To Net: NetName=S_GND Pin=R22-2
+Added Pin To Net: NetName=S_GND Pin=R26-2
+Added Pin To Net: NetName=S_GND Pin=R31-2
+Added Pin To Net: NetName=S_GND Pin=R37-1
+Added Pin To Net: NetName=S_GND Pin=R38-2
+Added Pin To Net: NetName=S_GND Pin=R46-1
+Added Pin To Net: NetName=S_GND Pin=R50-1
+Added Pin To Net: NetName=S_GND Pin=R51-1
+Added Pin To Net: NetName=S_GND Pin=TP20-1
+Added Pin To Net: NetName=S_GND Pin=TP21-1
+Added Pin To Net: NetName=S_GND Pin=TP23-1
+Added Net: Name=S_GND
+Added Member To Class: ClassName=Power Converter Member=Component C33 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C34 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C35 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C37 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C38 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C39 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component J1 Vin+
+Added Member To Class: ClassName=Power Converter Member=Component J2 Vin-
+Added Member To Class: ClassName=Power Converter Member=Component J3 Vout+
+Added Member To Class: ClassName=Power Converter Member=Component J4 Vout-
+Added Member To Class: ClassName=Power Converter Member=Component J6 CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=Power Converter Member=Component TP23 Test Point
+Added Room: Name=Power Converter
+Added Room: Name=Power Supply

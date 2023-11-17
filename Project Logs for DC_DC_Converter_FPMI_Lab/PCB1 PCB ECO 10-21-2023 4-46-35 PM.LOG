@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetF1_2 Pin=J6-1
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R32
+Change Component Designator: OldDesignator=R35 NewDesignator=R33
+Change Component Designator: OldDesignator=R36 NewDesignator=R34
+Change Component Designator: OldDesignator=R37 NewDesignator=R35
+Change Component Designator: OldDesignator=R38 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=R41 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R40
+Change Component Designator: OldDesignator=R43 NewDesignator=R41
+Change Component Designator: OldDesignator=R44 NewDesignator=R42
+Change Component Designator: OldDesignator=R45 NewDesignator=R43
+Change Component Designator: OldDesignator=R47 NewDesignator=R44
+Change Component Designator: OldDesignator=R48 NewDesignator=R45
+Change Component Designator: OldDesignator=R49 NewDesignator=R46
+Change Component Designator: OldDesignator=R50 NewDesignator=R47
+Change Component Designator: OldDesignator=R51 NewDesignator=R48
+Change Component Designator: OldDesignator=R52 NewDesignator=R49
+Change Component Designator: OldDesignator=R53 NewDesignator=R50
+Change Component Designator: OldDesignator=R54 NewDesignator=R51
+Change Component Designator: OldDesignator=R55 NewDesignator=R52
+Change Component Designator: OldDesignator=R56 NewDesignator=R53
+Change Component Designator: OldDesignator=R57 NewDesignator=R54
+Change Component Designator: OldDesignator=R58 NewDesignator=R55
+Change Component Designator: OldDesignator=R59 NewDesignator=R56
+Change Component Designator: OldDesignator=R60 NewDesignator=R57
+Change Component Designator: OldDesignator=R61 NewDesignator=R58
+Change Component Designator: OldDesignator=R62 NewDesignator=R59
+Change Component Designator: OldDesignator=R63 NewDesignator=R60
+Change Component Designator: OldDesignator=R64 NewDesignator=R61
+Change Component Designator: OldDesignator=R65 NewDesignator=R62
+Change Component Designator: OldDesignator=R66 NewDesignator=R63
+Change Component Designator: OldDesignator=R67 NewDesignator=R64
+Change Component Designator: OldDesignator=R68 NewDesignator=R65
+Change Component Designator: OldDesignator=R69 NewDesignator=R66
+Change Component Designator: OldDesignator=R70 NewDesignator=R67
+Added Component: Designator=J6(HEADER_2)
+Add component (AddParameter): Name = "Description SEL"; Value = "CONN HEADER VERT 2POS 2.5MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header_2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_2 Pin=J6-1
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR53_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=J7-1
+Added Net: Name=NetJ6_2
+Added Member To Class: ClassName=Power Converter Member=Component J7 CONN HEADER VERT 2POS 2.5MM
+Added Room: Name=Power Converter
+Added Room: Name=Supply

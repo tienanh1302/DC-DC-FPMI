@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=P_GND Pin=R9-2
+Removed Pin From Net: NetName=P_GND Pin=R62-2
+Removed Pin From Net: NetName=P_GND Pin=R66-2
+Removed Pin From Net: NetName=P_GND Pin=R67-2
+Removed Member From Class: ClassName=Power Converter Member=R9
+Removed Member From Class: ClassName=Power Converter Member=R62
+Removed Member From Class: ClassName=Power Converter Member=R66
+Removed Member From Class: ClassName=Power Converter Member=R67
+Added Pin To Net: NetName=P_GND Pin=C6-1
+Added Pin To Net: NetName=P_GND Pin=C7-2
+Added Pin To Net: NetName=P_GND Pin=C30-1
+Added Pin To Net: NetName=P_GND Pin=C32-2
+Added Pin To Net: NetName=P_GND Pin=C36-1
+Added Pin To Net: NetName=P_GND Pin=C39-1
+Added Pin To Net: NetName=P_GND Pin=C40-1
+Added Pin To Net: NetName=P_GND Pin=C41-1
+Added Pin To Net: NetName=P_GND Pin=C42-1
+Added Pin To Net: NetName=P_GND Pin=C43-1
+Added Pin To Net: NetName=P_GND Pin=C44-1
+Added Pin To Net: NetName=P_GND Pin=IC5-4
+Added Pin To Net: NetName=P_GND Pin=J5-2
+Added Pin To Net: NetName=P_GND Pin=J5-4
+Added Pin To Net: NetName=P_GND Pin=J5-6
+Added Pin To Net: NetName=P_GND Pin=J5-8
+Added Pin To Net: NetName=P_GND Pin=J5-10
+Added Pin To Net: NetName=P_GND Pin=J5-12
+Added Pin To Net: NetName=P_GND Pin=J5-14
+Added Pin To Net: NetName=P_GND Pin=J5-16
+Added Pin To Net: NetName=P_GND Pin=J5-18
+Added Pin To Net: NetName=P_GND Pin=J5-20
+Added Pin To Net: NetName=P_GND Pin=J5-22
+Added Pin To Net: NetName=P_GND Pin=J5-24
+Added Pin To Net: NetName=P_GND Pin=Q6-2
+Added Pin To Net: NetName=P_GND Pin=Q7-2
+Added Pin To Net: NetName=P_GND Pin=Q8-2
+Added Pin To Net: NetName=P_GND Pin=R2-2
+Added Pin To Net: NetName=P_GND Pin=R5-1
+Added Pin To Net: NetName=P_GND Pin=R10-1
+Added Pin To Net: NetName=P_GND Pin=R19-1
+Added Pin To Net: NetName=P_GND Pin=R20-1
+Added Pin To Net: NetName=P_GND Pin=R23-2
+Added Pin To Net: NetName=P_GND Pin=R25-2
+Added Pin To Net: NetName=P_GND Pin=R30-2
+Added Pin To Net: NetName=P_GND Pin=R36-2
+Added Pin To Net: NetName=P_GND Pin=R42-1
+Added Pin To Net: NetName=P_GND Pin=R49-2
+Added Pin To Net: NetName=P_GND Pin=R51-1
+Added Pin To Net: NetName=P_GND Pin=R53-1
+Added Pin To Net: NetName=P_GND Pin=R54-1
+Added Pin To Net: NetName=P_GND Pin=TP11-1
+Added Pin To Net: NetName=P_GND Pin=TP12-1
+Added Pin To Net: NetName=P_GND Pin=TP14-1

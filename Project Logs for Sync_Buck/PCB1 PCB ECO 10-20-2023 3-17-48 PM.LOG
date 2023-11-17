@@ -1,0 +1,252 @@
+Removed Pin From Net: NetName=NetC48_1 Pin=Designator1-2
+Removed Pin From Net: NetName=NetD15_1 Pin=J5-6
+Removed Pin From Net: NetName=S_GND Pin=J5-7
+Removed Pin From Net: NetName=LI Pin=J5-8
+Removed Pin From Net: NetName=HI Pin=J5-9
+Removed Pin From Net: NetName=P_GND Pin=L1-3
+Removed Pin From Net: NetName=VDD_12P0 Pin=R72-2
+Removed Member From Class: ClassName=Power Converter Member=R72
+Removed Member From Class: ClassName=Supply Member=R80
+Change Component Designator: OldDesignator=C50 NewDesignator=C49
+Change Component Designator: OldDesignator=C51 NewDesignator=C50
+Change Component Designator: OldDesignator=C54 NewDesignator=C52
+Change Component Designator: OldDesignator=C55 NewDesignator=C53
+Change Component Designator: OldDesignator=C56 NewDesignator=C54
+Change Component Designator: OldDesignator=C57 NewDesignator=C55
+Change Component Designator: OldDesignator=C58 NewDesignator=C56
+Change Component Designator: OldDesignator=C59 NewDesignator=C57
+Change Component Designator: OldDesignator=C61 NewDesignator=C58
+Change Component Designator: OldDesignator=C62 NewDesignator=C59
+Change Component Designator: OldDesignator=C63 NewDesignator=C60
+Change Component Designator: OldDesignator=C64 NewDesignator=C61
+Change Component Designator: OldDesignator=C65 NewDesignator=C62
+Change Component Designator: OldDesignator=C66 NewDesignator=C63
+Change Component Designator: OldDesignator=C67 NewDesignator=C64
+Change Component Designator: OldDesignator=C68 NewDesignator=C65
+Change Component Designator: OldDesignator=D23 NewDesignator=D24
+Change Component Designator: OldDesignator=D24 NewDesignator=D23
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=R54 NewDesignator=R53
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=R58 NewDesignator=R57
+Change Component Designator: OldDesignator=R61 NewDesignator=R58
+Change Component Designator: OldDesignator=R62 NewDesignator=R59
+Change Component Designator: OldDesignator=R64 NewDesignator=R60
+Change Component Designator: OldDesignator=R66 NewDesignator=R61
+Change Component Designator: OldDesignator=R67 NewDesignator=R62
+Change Component Designator: OldDesignator=R68 NewDesignator=R63
+Change Component Designator: OldDesignator=R69 NewDesignator=R64
+Change Component Designator: OldDesignator=R70 NewDesignator=R65
+Change Component Designator: OldDesignator=R71 NewDesignator=R66
+Change Component Designator: OldDesignator=R73 NewDesignator=R67
+Change Component Designator: OldDesignator=R74 NewDesignator=R68
+Change Component Designator: OldDesignator=R75 NewDesignator=R69
+Change Component Designator: OldDesignator=R76 NewDesignator=R70
+Change Component Designator: OldDesignator=R78 NewDesignator=R71
+Change Component Designator: OldDesignator=R80 NewDesignator=R72
+Change Component Designator: OldDesignator=R81 NewDesignator=R73
+Change Component Designator: OldDesignator=R82 NewDesignator=R74
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP14
+Change component parameters: Designator = "L3" ("L3"); Footprint = "SRR1260A470M"; UniqueID = "\NBFQIAPL" ("\NBFQIAPL")
+Change component parameters (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "HCM1A1307V2-220-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "*47uH"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP CER 10UF 16V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL21A106KOCLRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP CER 10UF 16V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL21A106KOCLRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C_ALU_TH_8p0D11p5)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP ALUM 33UF 20% 80V RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "80ZLH33MEFC6.3X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C_1210)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description std"; Value = "CAP CER 4.7UF 100V X7S 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1KU"; Value = "0.56250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1unit"; Value = "1.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/C3225X7S2A475M200AB/445-6043-2-ND/2443521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32ER71K475KE14L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UF-100V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMC)
+Add component (AddParameter): Name = "Description SEL"; Value = "Diode SS34 3A 40V SMA SCHOCKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Semiconductor Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "DIODE_Schottky_DO214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1500-000030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1.5SMC91A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3A 40V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMC)
+Add component (AddParameter): Name = "Description SEL"; Value = "Diode SS34 3A 40V SMA SCHOCKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Semiconductor Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "DIODE_Schottky_DO214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1500-000030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS34LHMHG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3A 40V"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(FERRITEBEAD_1206)
+Add component (AddParameter): Name = "Description SEL"; Value = "FERRITE BEAD 270 OHM 1206 1LN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(FERRITEBEAD_1206)
+Add component (AddParameter): Name = "Description SEL"; Value = "FERRITE BEAD 270 OHM 1206 1LN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM31KN271SH1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=L2(1217ASH100MP3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1217AS-H-8R2M=P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1217as-h-8r2mp3/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/inductor/product/1217AS-H-8R2M%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1217AS-H-8R2M=P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-1217AS-H-8R2MP3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/1217AS-H-8R2M%3dP3?qs=4tuKoHGzn116ThiZXqrSgw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 200K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-13200KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S_GND Pin=C30-1
+Added Pin To Net: NetName=INA+ Pin=C30-2
+Added Pin To Net: NetName=S_GND Pin=C32-1
+Added Pin To Net: NetName=INB- Pin=C32-2
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=P_GND Pin=C48-2
+Added Pin To Net: NetName=P_GND Pin=C51-1
+Added Pin To Net: NetName=VDD_12P0 Pin=C52-2
+Added Pin To Net: NetName=VDD_12P0 Pin=C53-2
+Added Pin To Net: NetName=VDD_12P0 Pin=C54-2
+Added Pin To Net: NetName=VDD_12P0 Pin=C56-2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetF1_2 Pin=FB1-1
+Added Pin To Net: NetName=NetFB1_2 Pin=FB1-2
+Added Pin To Net: NetName=NetFB1_2 Pin=J6-1
+Added Pin To Net: NetName=NetC48_1 Pin=L2-2
+Added Pin To Net: NetName=VDD_12P0 Pin=L3-2
+Added Pin To Net: NetName=S_GND Pin=R41-1
+Added Pin To Net: NetName=HW_Reset Pin=R41-2
+Added Pin To Net: NetName=VDD_12P0 Pin=R70-2
+Added Pin To Net: NetName=VDD_12P0 Pin=R72-1
+Change Net Name : Old Net Name=NetC58_1 New Net Name=NetC56_1
+Change Net Name : Old Net Name=NetC59_1 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC61_2 New Net Name=NetC58_2
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR56_1
+Change Net Name : Old Net Name=NetR58_1 New Net Name=NetR57_1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC51_2 Pin=FB2-2
+Added Pin To Net: NetName=NetC51_2 Pin=L2-1
+Added Net: Name=NetC51_2
+Added Pin To Net: NetName=NetD24_2 Pin=D24-2
+Added Pin To Net: NetName=NetD24_2 Pin=FB2-1
+Added Net: Name=NetD24_2
+Added Member To Class: ClassName=Power Converter Member=Component C30 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C32 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C48 Cap_Alu_TH_8P0D3P5_22uF
+Added Member To Class: ClassName=Supply Member=Component C51 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component D2 TVS77.8V
+Added Member To Class: ClassName=Power Converter Member=Component D3 TVS77.8V
+Added Member To Class: ClassName=Power Converter Member=Component D10 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D11 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D14 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D15 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D16 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D19 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D20 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D21 PMEG2010AEJ,115
+Added Member To Class: ClassName=Supply Member=Component D24 Schottky
+Added Member To Class: ClassName=Supply Member=Component D26 LED-SMD
+Added Member To Class: ClassName=Power Converter Member=Component FB1 FerriteBead_1206_270Ohm
+Added Member To Class: ClassName=Supply Member=Component FB2 FerriteBead_1206_270Ohm
+Added Member To Class: ClassName=Supply Member=Component L2 1217AS-H-8R2M=P3
+Added Member To Class: ClassName=Power Converter Member=Component R21 0603
+Added Member To Class: ClassName=Power Converter Member=Component R22 0603
+Added Member To Class: ClassName=Power Converter Member=Component R26 0603
+Added Member To Class: ClassName=Power Converter Member=Component R41 1k
+Added Member To Class: ClassName=Power Converter Member=Component R42 1k
+Added Member To Class: ClassName=Power Converter Member=Component R44 10k
+Added Member To Class: ClassName=Power Converter Member=Component R45 0603
+Added Member To Class: ClassName=Power Converter Member=Component R47 0603
+Added Member To Class: ClassName=Power Converter Member=Component R48 10k
+Added Member To Class: ClassName=Power Converter Member=Component R49 47k
+Added Member To Class: ClassName=Power Converter Member=Component R53 0603
+Added Member To Class: ClassName=Power Converter Member=Component R54 0603
+Added Member To Class: ClassName=Power Converter Member=Component R57 0603
+Added Member To Class: ClassName=Power Converter Member=Component R58 0603
+Added Member To Class: ClassName=Power Converter Member=Component R60 0603
+Added Member To Class: ClassName=Power Converter Member=Component R62 0603
+Added Member To Class: ClassName=Power Converter Member=Component R63 0603
+Added Member To Class: ClassName=Power Converter Member=Component R64 0603
+Added Member To Class: ClassName=Supply Member=Component R66 200k
+Added Member To Class: ClassName=Supply Member=Component R67 24k
+Added Member To Class: ClassName=Supply Member=Component R68 390k
+Added Member To Class: ClassName=Supply Member=Component R69 0603
+Added Member To Class: ClassName=Supply Member=Component R70 0603

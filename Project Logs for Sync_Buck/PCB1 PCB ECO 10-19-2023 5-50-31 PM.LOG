@@ -1,0 +1,347 @@
+Removed Pin From Net: NetName=FW_Reset Pin=D16-1
+Removed Pin From Net: NetName=HW_Reset Pin=D16-2
+Removed Pin From Net: NetName=V_In_Cap Pin=D25-1
+Removed Member From Class: ClassName=Power Converter Member=D23
+Change Component Comment : Designator=R4 Old Comment=1k New Comment=2k
+Change Component Designator: OldDesignator=D10 NewDesignator=D9
+Change Component Designator: OldDesignator=D11 NewDesignator=D10
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=D14 NewDesignator=D12
+Change Component Designator: OldDesignator=D15 NewDesignator=D13
+Change Component Designator: OldDesignator=D16 NewDesignator=D18
+Change Component Designator: OldDesignator=D17 NewDesignator=D14
+Change Component Designator: OldDesignator=D18 NewDesignator=D15
+Change Component Designator: OldDesignator=D19 NewDesignator=D16
+Change Component Designator: OldDesignator=D20 NewDesignator=D17
+Change Component Designator: OldDesignator=D21 NewDesignator=D19
+Change Component Designator: OldDesignator=D22 NewDesignator=D20
+Change Component Designator: OldDesignator=D23 NewDesignator=D21
+Change Component Designator: OldDesignator=D24 NewDesignator=D22
+Change Component Designator: OldDesignator=D25 NewDesignator=D23
+Change Component Designator: OldDesignator=D26 NewDesignator=D24
+Change Component Designator: OldDesignator=D27 NewDesignator=D25
+Change Component Designator: OldDesignator=D28 NewDesignator=D26
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q10
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R45
+Change Component Designator: OldDesignator=R44 NewDesignator=R46
+Change Component Designator: OldDesignator=R45 NewDesignator=R47
+Change Component Designator: OldDesignator=R46 NewDesignator=R44
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R51 NewDesignator=R54
+Change Component Designator: OldDesignator=R52 NewDesignator=R55
+Change Component Designator: OldDesignator=R53 NewDesignator=R56
+Change Component Designator: OldDesignator=R54 NewDesignator=R57
+Change Component Designator: OldDesignator=R55 NewDesignator=R58
+Change Component Designator: OldDesignator=R58 NewDesignator=R61
+Change Component Designator: OldDesignator=R59 NewDesignator=R62
+Change Component Designator: OldDesignator=R61 NewDesignator=R64
+Change Component Designator: OldDesignator=R63 NewDesignator=R66
+Change Component Designator: OldDesignator=R64 NewDesignator=R67
+Change Component Designator: OldDesignator=R65 NewDesignator=R68
+Change Component Designator: OldDesignator=R66 NewDesignator=R69
+Change Component Designator: OldDesignator=R67 NewDesignator=R70
+Change Component Designator: OldDesignator=R68 NewDesignator=R71
+Change Component Designator: OldDesignator=R69 NewDesignator=R72
+Change Component Designator: OldDesignator=R70 NewDesignator=R73
+Change Component Designator: OldDesignator=R71 NewDesignator=R74
+Change Component Designator: OldDesignator=R72 NewDesignator=R75
+Change Component Designator: OldDesignator=R73 NewDesignator=R76
+Change Component Designator: OldDesignator=R74 NewDesignator=R77
+Change Component Designator: OldDesignator=R75 NewDesignator=R78
+Change Component Designator: OldDesignator=R76 NewDesignator=R79
+Change Component Designator: OldDesignator=R77 NewDesignator=R80
+Change Component Designator: OldDesignator=R78 NewDesignator=R81
+Change Component Designator: OldDesignator=R79 NewDesignator=R82
+Change Component Description : Designator=R4 Old Description=RES 1k OHM 1% 1/8W 0603 New Description=RES 2k OHM 1% 1/8W 0603
+Change Component Description : Designator=R40 Old Description=RES 200K OHM 1% 1/10W 0603 New Description=RES 1K OHM 1% 1/10W 0603
+Added Component: Designator=C48(C_ALU_TH_8p0D11p5)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP ALUM 33UF 20% 80V RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "80ZLH33MEFC6.3X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C_1210)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description std"; Value = "CAP CER 4.7UF 100V X7S 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1KU"; Value = "0.56250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1unit"; Value = "1.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/C3225X7S2A475M200AB/445-6043-2-ND/2443521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32ER71K475KE14L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UF-100V"; VariantName = "[No Variations]"
+Added Component: Designator=C53(C_0805)
+Add component (AddParameter): Name = "Description SEL"; Value = "10pF 50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL21B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(FERRITEBEAD_1206)
+Add component (AddParameter): Name = "Description SEL"; Value = "FERRITE BEAD 270 OHM 1206 1LN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(FERRITEBEAD_1206)
+Add component (AddParameter): Name = "Description SEL"; Value = "FERRITE BEAD 270 OHM 1206 1LN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BLM31KN271SH1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=J6(JUMP_1x2)
+Add component (AddParameter): Name = "Description SEL"; Value = "Terminal_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DEGSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DG350-3.96-03P-04-10050000318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DG350-3.96-03P-04-10050000318"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 1217ASH100MP3
+Added Component: Designator=Q7(sot23-3)
+Add component (AddParameter): Name = "Description SEL"; Value = "P-Channel 20 V 3.7A (Ta) 1.3W (Ta) Surface Mount Micro3™/SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INFINEON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1555-000011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DMP2160U-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20V 3.7A"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(sot23-3)
+Add component (AddParameter): Name = "Description SEL"; Value = "P-Channel 20 V 3.7A (Ta) 1.3W (Ta) Surface Mount Micro3™/SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INFINEON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1555-000011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20V 3.7A"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(sot23-3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SS8050-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ss8050-g/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-12/229454.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS8050-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-SS8050-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS8050-G?qs=LLUE9lz1YbcHg%252BWLMAtcrQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 200K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-13200KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R51(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 200K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-13200KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R52(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 200K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-13200KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R53(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R59(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 100 OHM 1% 1/8W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JRTTD1000F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R60(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R63(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R65(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=P_GND Pin=C48-2
+Added Pin To Net: NetName=P_GND Pin=C52-1
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=P_GND Pin=C53-1
+Added Pin To Net: NetName=NetC52_2 Pin=C53-2
+Added Pin To Net: NetName=FW_Reset Pin=D18-2
+Added Pin To Net: NetName=V_in Pin=D23-1
+Added Pin To Net: NetName=NetF1_2 Pin=FB1-1
+Added Pin To Net: NetName=NetFB1_2 Pin=FB1-2
+Added Pin To Net: NetName=NetC52_2 Pin=FB2-2
+Added Pin To Net: NetName=NetFB1_2 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=VDD_5P0 Pin=Q7-2
+Added Pin To Net: NetName=HW_Reset Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetFB1_2 Pin=Q8-2
+Added Pin To Net: NetName=NetJ6_2 Pin=Q8-3
+Added Pin To Net: NetName=P_GND Pin=Q9-2
+Added Pin To Net: NetName=S_GND Pin=R41-1
+Added Pin To Net: NetName=HW_Reset Pin=R41-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R51-1
+Added Pin To Net: NetName=VDD_5P0 Pin=R51-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R52-1
+Added Pin To Net: NetName=NetFB1_2 Pin=R53-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R53-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R59-2
+Added Pin To Net: NetName=P_GND Pin=R63-1
+Added Pin To Net: NetName=P_GND Pin=R65-1
+Added Pin To Net: NetName=S_GND Pin=R65-2
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD12_2
+Change Net Name : Old Net Name=NetD18_1 New Net Name=NetD15_1
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD16_2
+Change Net Name : Old Net Name=NetD20_2 New Net Name=NetD17_2
+Change Net Name : Old Net Name=NetD28_2 New Net Name=NetD26_2
+Change Net Name : Old Net Name=NetQ9_1 New Net Name=NetQ10_1
+Change Net Name : Old Net Name=NetR54_1 New Net Name=NetR57_1
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR58_1
+Change Net Name : Old Net Name=NetR74_2 New Net Name=NetR77_2
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=R52-2
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=FB2-1
+Added Net: Name=NetD23_2
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R60-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R63-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=NetQ9_3 Pin=R59-1
+Added Net: Name=NetQ9_3
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Net: Name=NetR60_2
+Added Member To Class: ClassName=Supply Member=Component C48 Cap_Alu_TH_8P0D3P5_22uF
+Added Member To Class: ClassName=Supply Member=Component C52 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Supply Member=Component C53 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component D18 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component F1 120mA 48V
+Added Member To Class: ClassName=Power Converter Member=Component FB1 FerriteBead_1206_270Ohm
+Added Member To Class: ClassName=Supply Member=Component FB2 FerriteBead_1206_270Ohm
+Added Member To Class: ClassName=Power Converter Member=Component J6 Jump_1x2
+Add Class Member: Failed to add class member : Component L2 1217AS-H-8R2M=P3
+Added Member To Class: ClassName=Power Converter Member=Component Q7 IRLML6402TRPBF
+Added Member To Class: ClassName=Power Converter Member=Component Q8 AO3401A
+Added Member To Class: ClassName=Power Converter Member=Component Q9 SS8050-G
+Added Member To Class: ClassName=Power Converter Member=Component R50 47k
+Added Member To Class: ClassName=Power Converter Member=Component R56 0603
+Added Member To Class: ClassName=Power Converter Member=Component R57 0603
+Added Member To Class: ClassName=Power Converter Member=Component R60 0603
+Added Member To Class: ClassName=Power Converter Member=Component R62 0603
+Added Member To Class: ClassName=Power Converter Member=Component R68 0603
+Added Member To Class: ClassName=Power Converter Member=Component R69 0603
+Added Member To Class: ClassName=Power Converter Member=Component R70 0603

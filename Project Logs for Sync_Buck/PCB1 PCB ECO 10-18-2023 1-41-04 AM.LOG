@@ -1,0 +1,130 @@
+Removed Member From Class: ClassName=Power Converter Member=C42
+Removed Member From Class: ClassName=Power Converter Member=C44
+Removed Member From Class: ClassName=Power Converter Member=C46
+Removed Member From Class: ClassName=Power Converter Member=D27
+Removed Member From Class: ClassName=Power Converter Member=D28
+Removed Member From Class: ClassName=Power Converter Member=IC8
+Removed Member From Class: ClassName=Power Converter Member=R68
+Removed Member From Class: ClassName=Power Converter Member=R69
+Removed Member From Class: ClassName=Power Converter Member=R73
+Removed Member From Class: ClassName=Power Converter Member=R76
+Removed Member From Class: ClassName=Power Converter Member=R78
+Added Component: Designator=R77(RESC6332X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW251215R0JNEG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw251215r0jneg/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW251215R0JNEG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW2512J-15-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW251215R0JNEG?qs=Z1AZHWO%2FsqLBwgjNhUTIZA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_12P0 Pin=R77-1
+Added Pin To Net: NetName=NetC55_2 Pin=R77-2
+Added Member To Class: ClassName=Power Converter Member=Component C5 DNF
+Added Member To Class: ClassName=Power Converter Member=Component C6 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C7 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C8 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C10 0.1uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C11 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C12 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C13 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C15 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C16 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C17 470uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C18 0.1uF 100V
+Added Member To Class: ClassName=Power Converter Member=Component C20 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C21 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C22 4.7nF
+Added Member To Class: ClassName=Power Converter Member=Component C23 1uF 25V
+Added Member To Class: ClassName=Power Converter Member=Component C25 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C27 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C30 47pF
+Added Member To Class: ClassName=Power Converter Member=Component C31 1uF 25V
+Added Member To Class: ClassName=Power Converter Member=Component C32 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C34 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C36 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C38 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C39 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C40 1nF
+Added Member To Class: ClassName=Supply Member=Component C41 2.2nF
+Added Member To Class: ClassName=Supply Member=Component C43 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Supply Member=Component C45 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C47 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C49 10uF
+Added Member To Class: ClassName=Supply Member=Component C51 0603
+Added Member To Class: ClassName=Supply Member=Component C53 68pF
+Added Member To Class: ClassName=Supply Member=Component C55 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C57 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C59 Cap_Alu_TH_8P0D3P5
+Added Member To Class: ClassName=Power Converter Member=Component D2 TVS77.8V
+Added Member To Class: ClassName=Power Converter Member=Component D3 TVS77.8V
+Added Member To Class: ClassName=Power Converter Member=Component D4 B0520WS-7-F
+Added Member To Class: ClassName=Power Converter Member=Component D6 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D7 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D9 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D10 LED-SMD
+Added Member To Class: ClassName=Power Converter Member=Component D12 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D13 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D15 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D16 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D17 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D20 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D21 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D22 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D23 PMEG2010AEJ,115
+Added Member To Class: ClassName=Supply Member=Component D25 Schottky
+Added Member To Class: ClassName=Supply Member=Component D26 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component IC2 INA240A1PWR
+Added Member To Class: ClassName=Power Converter Member=Component IC4 ACS758LCB-100B-PFF-T
+Added Member To Class: ClassName=Power Converter Member=Component IC6 UCC21542DWR
+Added Member To Class: ClassName=Supply Member=Component IC7 LM5013DDAR
+Added Member To Class: ClassName=Power Converter Member=Component R1 0
+Added Member To Class: ClassName=Power Converter Member=Component R3 2k
+Added Member To Class: ClassName=Power Converter Member=Component R4 1k
+Added Member To Class: ClassName=Power Converter Member=Component R5 10
+Added Member To Class: ClassName=Power Converter Member=Component R7 Shunt 1 mOhm
+Added Member To Class: ClassName=Power Converter Member=Component R8 0
+Added Member To Class: ClassName=Power Converter Member=Component R9 0603
+Added Member To Class: ClassName=Power Converter Member=Component R12 47k
+Added Member To Class: ClassName=Power Converter Member=Component R13 0603
+Added Member To Class: ClassName=Power Converter Member=Component R14 47k
+Added Member To Class: ClassName=Power Converter Member=Component R17 10
+Added Member To Class: ClassName=Power Converter Member=Component R19 0603
+Added Member To Class: ClassName=Power Converter Member=Component R21 0603
+Added Member To Class: ClassName=Power Converter Member=Component R22 0603
+Added Member To Class: ClassName=Power Converter Member=Component R24 250k
+Added Member To Class: ClassName=Power Converter Member=Component R26 0603
+Added Member To Class: ClassName=Power Converter Member=Component R27 250k
+Added Member To Class: ClassName=Power Converter Member=Component R29 0603
+Added Member To Class: ClassName=Power Converter Member=Component R31 0603
+Added Member To Class: ClassName=Power Converter Member=Component R34 200k
+Added Member To Class: ClassName=Power Converter Member=Component R36 0603
+Added Member To Class: ClassName=Power Converter Member=Component R38 10k
+Added Member To Class: ClassName=Power Converter Member=Component R41 1k
+Added Member To Class: ClassName=Power Converter Member=Component R42 0603
+Added Member To Class: ClassName=Power Converter Member=Component R43 0603
+Added Member To Class: ClassName=Power Converter Member=Component R45 0603
+Added Member To Class: ClassName=Power Converter Member=Component R46 10k
+Added Member To Class: ClassName=Power Converter Member=Component R47 10k
+Added Member To Class: ClassName=Power Converter Member=Component R48 47k
+Added Member To Class: ClassName=Power Converter Member=Component R50 0603
+Added Member To Class: ClassName=Power Converter Member=Component R52 0603
+Added Member To Class: ClassName=Power Converter Member=Component R53 0603
+Added Member To Class: ClassName=Power Converter Member=Component R54 0603
+Added Member To Class: ClassName=Power Converter Member=Component R55 0603
+Added Member To Class: ClassName=Power Converter Member=Component R57 0603
+Added Member To Class: ClassName=Power Converter Member=Component R58 0603
+Added Member To Class: ClassName=Power Converter Member=Component R59 0603
+Added Member To Class: ClassName=Power Converter Member=Component R61 0603
+Added Member To Class: ClassName=Power Converter Member=Component R62 0603
+Added Member To Class: ClassName=Power Converter Member=Component R63 0603
+Added Member To Class: ClassName=Power Converter Member=Component R64 0603
+Added Member To Class: ClassName=Power Converter Member=Component R65 0603
+Added Member To Class: ClassName=Power Converter Member=Component R66 0603
+Added Member To Class: ClassName=Power Converter Member=Component R67 0603
+Added Member To Class: ClassName=Supply Member=Component R70 24k
+Added Member To Class: ClassName=Supply Member=Component R71 390k
+Added Member To Class: ClassName=Supply Member=Component R72 0603
+Added Member To Class: ClassName=Supply Member=Component R77 CRCW251215R0JNEG
+Added Room: Name=Power Converter
+Added Room: Name=Supply

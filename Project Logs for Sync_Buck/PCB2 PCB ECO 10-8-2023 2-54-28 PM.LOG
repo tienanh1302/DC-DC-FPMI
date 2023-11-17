@@ -1,0 +1,83 @@
+Added Component: Designator=C28(C_1210)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description std"; Value = "CAP CER 4.7UF 100V X7S 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1KU"; Value = "0.56250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1unit"; Value = "1.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/C3225X7S2A475M200AB/445-6043-2-ND/2443521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32ER71K475KE14L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UF-80V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C_1210)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description std"; Value = "CAP CER 4.7UF 100V X7S 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1KU"; Value = "0.56250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/1unit"; Value = "1.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/C3225X7S2A475M200AB/445-6043-2-ND/2443521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32ER71K475KE14L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UF-80V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(HOLE_5mm_BLACK)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(HOLE_5mm_RED)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(HOLE_5mm_BLACK)
+Add component (AddParameter): Name = "Footprint type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P_GND Pin=C28-1
+Added Pin To Net: NetName=NetC26_2 Pin=C28-2
+Added Pin To Net: NetName=P_GND Pin=C29-1
+Added Pin To Net: NetName=NetC26_2 Pin=C29-2
+Added Pin To Net: NetName=V_in Pin=J1-1
+Added Pin To Net: NetName=P_GND Pin=J2-1
+Added Pin To Net: NetName=V_Out Pin=J3-1
+Added Pin To Net: NetName=P_GND Pin=J4-1
+Added Pin To Net: NetName=NetC26_2 Pin=TP4-1
+Added Pin To Net: NetName=NetC36_2 Pin=TP5-1
+Added Pin To Net: NetName=HS Pin=TP6-1
+Added Pin To Net: NetName=HS Pin=TP8-1
+Added Pin To Net: NetName=NetC44_2 Pin=TP9-1
+Added Pin To Net: NetName=P_GND Pin=TP10-1
+Added Member To Class: ClassName=Power Converter Member=Component C28 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component C29 GRM32ER71K475KE14L
+Added Member To Class: ClassName=Power Converter Member=Component J1 Vin+
+Added Member To Class: ClassName=Power Converter Member=Component J2 Vin-
+Added Member To Class: ClassName=Power Converter Member=Component J3 Vout+
+Added Member To Class: ClassName=Power Converter Member=Component J4 Vout-
+Added Member To Class: ClassName=Power Converter Member=Component TP4 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP5 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP6 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP8 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP9 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP10 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP17 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP19 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP21 Test Point

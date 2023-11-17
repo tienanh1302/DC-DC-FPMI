@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=P_GND Pin=C63-1
+Removed Pin From Net: NetName=VDD_12P0 Pin=C63-2
+Removed Pin From Net: NetName=P_GND Pin=L1-3
+Added Pin To Net: NetName=NetC40_2 Pin=J5-1
+Added Pin To Net: NetName=S_GND Pin=J5-2
+Added Pin To Net: NetName=NetC44_2 Pin=J5-3
+Added Pin To Net: NetName=S_GND Pin=J5-4
+Added Pin To Net: NetName=NetC39_2 Pin=J5-5
+Added Pin To Net: NetName=S_GND Pin=J5-6
+Added Pin To Net: NetName=NetC43_2 Pin=J5-7
+Added Pin To Net: NetName=S_GND Pin=J5-8
+Added Pin To Net: NetName=NetC42_2 Pin=J5-9
+Added Pin To Net: NetName=S_GND Pin=J5-10
+Added Pin To Net: NetName=NetC41_2 Pin=J5-11
+Added Pin To Net: NetName=S_GND Pin=J5-12
+Added Pin To Net: NetName=S_GND Pin=J5-14
+Added Pin To Net: NetName=HI Pin=J5-15
+Added Pin To Net: NetName=S_GND Pin=J5-16
+Added Pin To Net: NetName=LI Pin=J5-17
+Added Pin To Net: NetName=S_GND Pin=J5-18
+Added Pin To Net: NetName=NetD13_1 Pin=J5-19
+Added Pin To Net: NetName=S_GND Pin=J5-20
+Added Pin To Net: NetName=NetC32_1 Pin=J5-21
+Added Pin To Net: NetName=S_GND Pin=J5-22
+Added Pin To Net: NetName=S_GND Pin=J5-24
+Added Pin To Net: NetName=FW_Reset Pin=J5-25
+Added Pin To Net: NetName=NetJ5_23 Pin=J5-23
+Added Net: Name=NetJ5_23
+Added Member To Class: ClassName=Supply Member=Component C51 0603
+Added Member To Class: ClassName=Supply Member=Component C52 0603
+Added Member To Class: ClassName=Supply Member=Component C54 68pF
+Added Member To Class: ClassName=Supply Member=Component C55 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C57 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C59 Cap_Alu_TH_8P0D3P5
+Added Member To Class: ClassName=Supply Member=Component C62 0.1uF
+Added Member To Class: ClassName=Supply Member=Component FB1 FerriteBead_1206_270Ohm

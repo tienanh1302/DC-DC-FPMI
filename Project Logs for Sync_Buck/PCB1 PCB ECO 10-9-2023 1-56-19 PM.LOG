@@ -1,0 +1,18 @@
+Added Component: Designator=D11(SOD123)
+Add component (AddParameter): Name = "Category"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1A (DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "SOD-323F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PMEG2010AEJ,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "20 V"; VariantName = "[No Variations]"
+Added Component: Designator=D12(SOD123)
+Add component (AddParameter): Name = "Category"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1A (DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint/Package"; Value = "SOD-323F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PMEG2010AEJ,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "20 V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Converter Member=Component D11 PMEG2010AEJ,115
+Added Member To Class: ClassName=Power Converter Member=Component D12 PMEG2010AEJ,115

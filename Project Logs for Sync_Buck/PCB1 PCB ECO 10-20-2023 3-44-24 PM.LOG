@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=P_GND Pin=C51-1
+Removed Pin From Net: NetName=VDD_12P0 Pin=C51-2
+Removed Pin From Net: NetName=NetF1_2 Pin=FB1-1
+Removed Member From Class: ClassName=Power Converter Member=FB1
+Change Component Designator: OldDesignator=C52 NewDesignator=C51
+Change Component Designator: OldDesignator=C53 NewDesignator=C52
+Change Component Designator: OldDesignator=C54 NewDesignator=C53
+Change Component Designator: OldDesignator=C55 NewDesignator=C54
+Change Component Designator: OldDesignator=C56 NewDesignator=C55
+Change Component Designator: OldDesignator=C57 NewDesignator=C56
+Change Component Designator: OldDesignator=C58 NewDesignator=C57
+Change Component Designator: OldDesignator=C59 NewDesignator=C58
+Change Component Designator: OldDesignator=C60 NewDesignator=C59
+Change Component Designator: OldDesignator=C61 NewDesignator=C60
+Change Component Designator: OldDesignator=C62 NewDesignator=C61
+Change Component Designator: OldDesignator=C63 NewDesignator=C62
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB1
+Added Component: Designator=C50(C_1210)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP CER 22uF 16V X7R 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL32A226KOJNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P_GND Pin=C50-1
+Added Pin To Net: NetName=VDD_12P0 Pin=C50-2
+Added Pin To Net: NetName=NetF1_2 Pin=J6-1
+Change Net Name : Old Net Name=NetC54_1 New Net Name=NetC53_1
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC54_1
+Change Net Name : Old Net Name=NetC56_2 New Net Name=NetC55_2
+Added Member To Class: ClassName=Power Converter Member=Component C30 10uF
+Added Member To Class: ClassName=Power Converter Member=Component C32 0.1uF
+Added Member To Class: ClassName=Power Converter Member=Component C38 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C43 1nF
+Added Member To Class: ClassName=Power Converter Member=Component C44 1nF
+Added Member To Class: ClassName=Supply Member=Component C48 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C50 22uF
+Added Member To Class: ClassName=Supply Member=Component C55 0.1uF
+Added Member To Class: ClassName=Supply Member=Component C62 0.1uF

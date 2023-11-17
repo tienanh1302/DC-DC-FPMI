@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=P_GND Pin=C46-1
+Removed Pin From Net: NetName=P_GND Pin=C47-1
+Removed Pin From Net: NetName=P_GND Pin=C48-1
+Removed Pin From Net: NetName=P_GND Pin=C50-2
+Removed Pin From Net: NetName=P_GND Pin=C55-2
+Removed Pin From Net: NetName=P_GND Pin=C57-1
+Removed Pin From Net: NetName=P_GND Pin=C58-1
+Removed Pin From Net: NetName=P_GND Pin=C59-1
+Removed Pin From Net: NetName=P_GND Pin=C60-1
+Removed Pin From Net: NetName=P_GND Pin=C61-1
+Removed Pin From Net: NetName=P_GND Pin=C62-1
+Removed Pin From Net: NetName=P_GND Pin=IC6-4
+Removed Pin From Net: NetName=P_GND Pin=J5-2
+Removed Pin From Net: NetName=P_GND Pin=J5-4
+Removed Pin From Net: NetName=P_GND Pin=J5-7
+Removed Pin From Net: NetName=P_GND Pin=J5-10
+Removed Pin From Net: NetName=P_GND Pin=J5-12
+Removed Pin From Net: NetName=P_GND Pin=J5-15
+Removed Pin From Net: NetName=P_GND Pin=J5-16
+Removed Pin From Net: NetName=P_GND Pin=J5-20
+Removed Pin From Net: NetName=P_GND Pin=J5-25
+Removed Pin From Net: NetName=P_GND Pin=Q3-2
+Removed Pin From Net: NetName=P_GND Pin=R11-1
+Removed Pin From Net: NetName=P_GND Pin=R16-1
+Removed Pin From Net: NetName=P_GND Pin=R17-1
+Removed Pin From Net: NetName=P_GND Pin=R20-2
+Removed Pin From Net: NetName=P_GND Pin=R22-2
+Removed Pin From Net: NetName=P_GND Pin=R26-2
+Removed Pin From Net: NetName=P_GND Pin=R31-2
+Removed Pin From Net: NetName=P_GND Pin=R37-1
+Removed Pin From Net: NetName=P_GND Pin=R38-2
+Removed Pin From Net: NetName=P_GND Pin=R46-1
+Removed Pin From Net: NetName=P_GND Pin=R50-1
+Removed Pin From Net: NetName=P_GND Pin=R51-1
+Removed Pin From Net: NetName=P_GND Pin=TP19-1
+Removed Pin From Net: NetName=P_GND Pin=TP20-1
+Removed Pin From Net: NetName=P_GND Pin=TP22-1
+Added Component: Designator=TP4(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Added Pin To Net: NetName=NetC26_2 Pin=TP4-1
+Added Pin To Net: NetName=NetC36_2 Pin=TP5-1
+Added Pin To Net: NetName=HS Pin=TP6-1
+Added Pin To Net: NetName=HS Pin=TP8-1
+Added Pin To Net: NetName=NetC44_2 Pin=TP9-1
+Added Pin To Net: NetName=P_GND Pin=TP10-1
+Added Pin To Net: NetName=S_GND Pin=C46-1
+Added Pin To Net: NetName=S_GND Pin=C47-1
+Added Pin To Net: NetName=S_GND Pin=C48-1
+Added Pin To Net: NetName=S_GND Pin=C50-2
+Added Pin To Net: NetName=S_GND Pin=C55-2
+Added Pin To Net: NetName=S_GND Pin=C57-1
+Added Pin To Net: NetName=S_GND Pin=C58-1
+Added Pin To Net: NetName=S_GND Pin=C59-1
+Added Pin To Net: NetName=S_GND Pin=C60-1
+Added Pin To Net: NetName=S_GND Pin=C61-1
+Added Pin To Net: NetName=S_GND Pin=C62-1
+Added Pin To Net: NetName=S_GND Pin=IC6-4
+Added Pin To Net: NetName=S_GND Pin=J5-2
+Added Pin To Net: NetName=S_GND Pin=J5-4
+Added Pin To Net: NetName=S_GND Pin=J5-7
+Added Pin To Net: NetName=S_GND Pin=J5-10
+Added Pin To Net: NetName=S_GND Pin=J5-12
+Added Pin To Net: NetName=S_GND Pin=J5-15
+Added Pin To Net: NetName=S_GND Pin=J5-16
+Added Pin To Net: NetName=S_GND Pin=J5-20
+Added Pin To Net: NetName=S_GND Pin=J5-25
+Added Pin To Net: NetName=S_GND Pin=Q3-2
+Added Pin To Net: NetName=S_GND Pin=R11-1
+Added Pin To Net: NetName=S_GND Pin=R16-1
+Added Pin To Net: NetName=S_GND Pin=R17-1
+Added Pin To Net: NetName=S_GND Pin=R20-2
+Added Pin To Net: NetName=S_GND Pin=R22-2
+Added Pin To Net: NetName=S_GND Pin=R26-2
+Added Pin To Net: NetName=S_GND Pin=R31-2
+Added Pin To Net: NetName=S_GND Pin=R37-1
+Added Pin To Net: NetName=S_GND Pin=R38-2
+Added Pin To Net: NetName=S_GND Pin=R46-1
+Added Pin To Net: NetName=S_GND Pin=R50-1
+Added Pin To Net: NetName=S_GND Pin=R51-1
+Added Pin To Net: NetName=S_GND Pin=TP19-1
+Added Pin To Net: NetName=S_GND Pin=TP20-1
+Added Pin To Net: NetName=S_GND Pin=TP22-1
+Added Net: Name=S_GND
+Added Member To Class: ClassName=Power Converter Member=Component TP4 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP5 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP6 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP8 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP9 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP10 Test Point

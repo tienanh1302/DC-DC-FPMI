@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP23
+Added Component: Designator=TP17(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Added Pin To Net: NetName=NetC50_1 Pin=TP17-1
+Added Member To Class: ClassName=Power Converter Member=Component TP23 Test Point

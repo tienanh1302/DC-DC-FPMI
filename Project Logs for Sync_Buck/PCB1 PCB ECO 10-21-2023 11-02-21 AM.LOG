@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP17
+Added Component: Designator=TP2(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_1mm_through_hole)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5005"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HO Pin=TP2-1
+Added Pin To Net: NetName=HS Pin=TP3-1
+Added Pin To Net: NetName=LO Pin=TP5-1
+Added Member To Class: ClassName=Power Converter Member=Component TP15 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP16 Test Point
+Added Member To Class: ClassName=Power Converter Member=Component TP17 Test Point

@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=J6 Old Footprint=HEADER_2 New Footprint=JUMP_1x2
+Change Component Comment : Designator=J6 Old Comment=CONN HEADER VERT 2POS 2.5MM New Comment=Header_2_2p54
+Change component parameters: Designator = "J6" ("J6"); Footprint = "HEADER_2"; UniqueID = "\UWIDDJLM" ("\UWIDDJLM")
+Change component parameters (AddParameter): Name = "Description SEL"; Value = "Header_2_2p54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Code"; Value = "S1900-000020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Converter Member=Component J6 Header_2_2p54
+Added Member To Class: ClassName=Power Converter Member=Component R29 0603
+Added Member To Class: ClassName=Power Converter Member=Component R32 0603
+Added Member To Class: ClassName=Power Converter Member=Component R35 10k
+Added Member To Class: ClassName=Power Converter Member=Component R38 1k
+Added Member To Class: ClassName=Power Converter Member=Component R41 10k
+Added Member To Class: ClassName=Power Converter Member=Component R42 0603
+Added Member To Class: ClassName=Power Converter Member=Component R45 47k
+Added Member To Class: ClassName=Power Converter Member=Component R49 0603
+Added Member To Class: ClassName=Power Converter Member=Component R50 0603
+Added Member To Class: ClassName=Power Converter Member=Component R51 0603
+Added Member To Class: ClassName=Power Converter Member=Component R57 0603
+Added Member To Class: ClassName=Supply Member=Component R62 0603
+Added Member To Class: ClassName=Supply Member=Component R64 0603

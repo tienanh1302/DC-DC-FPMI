@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=R76 NewDesignator=R77
+Change Component Designator: OldDesignator=R77 NewDesignator=R78
+Change Component Designator: OldDesignator=R78 NewDesignator=R79
+Added Component: Designator=R76(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ9_1 Pin=R76-1
+Added Pin To Net: NetName=P_GND Pin=R76-2
+Added Member To Class: ClassName=Supply Member=Component R79 0603
