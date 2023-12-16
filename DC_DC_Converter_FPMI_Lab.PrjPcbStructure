@@ -1,5 +1,3 @@
 Record=TopLevelDocument|FileName=Power Converter.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Power Converter.SchDoc|FileName=Power Converter 2.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Power Converter.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Power Converter.SchDoc|FileName=Sensor Signals.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Power Converter.SchDoc|FileName=Sensor Signal.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Power Converter.SchDoc|FileName=Supply.SchDoc|SheetNumber=3
