@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VSSA Pin=L1-1
+Removed Pin From Net: NetName=NetIC3_4 Pin=L1-2
+Removed Member From Class: ClassName=Power Stages Member=L1
+Added Pin To Net: NetName=VSSA Pin=L?-1
+Added Pin To Net: NetName=NetIC3_4 Pin=L?-2
